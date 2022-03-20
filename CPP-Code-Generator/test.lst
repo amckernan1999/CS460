@@ -1,0 +1,12 @@
+Input file: test.ss
+   1: (define (main)
+   2: 	(display (+ 12 5))
+   3: 	(newline)
+   4: 	(display (+ "abc" "xyz"))
+   5: 	(newline)
+   6: 	(display (+ "abc" 5))
+   7: 	(newline)
+   8: )
+   9: 
+  10: (main)
+0 errors found in input file
